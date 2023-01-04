@@ -4,7 +4,7 @@
     "ts-node": "^10.9.1"
   },
   "name": "ti-app-builder",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "dist/bin/index.js",
   "dependencies": {
     "acorn": "^8.8.1",
