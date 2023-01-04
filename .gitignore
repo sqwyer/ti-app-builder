@@ -1,0 +1,6 @@
+test
+OUT.8xp
+/ticonfig.json
+node_modules
+package-lock.json
+dist
